@@ -1,3 +1,4 @@
 演習1-1
 bbb
+AAA
 BBB
